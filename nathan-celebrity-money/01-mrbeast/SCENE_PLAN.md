@@ -9,7 +9,8 @@ The timings are planning estimates. Lock them to the real ElevenLabs voice-over 
 - **RF**: real footage, framed inside a torn-paper border.
 - **SRC**: a source snippet (article screenshot, figure highlighted, number cut out).
 
-MrBeast appears in every shot with a **black bar over his eyes**.
+**Characters:** everyone on screen is a paper cut-out (white cut edge, drop shadow, paper grain, puppet-style motion), including MrBeast, Ronaldo, crowds and customers.
+**Black bar:** goes over the eyes of every well-known celebrity (MrBeast, Ronaldo, and any famous face that turns up) in generated shots, real footage and the thumbnail. Anonymous paper people get none.
 
 ## Thumbnail
 - Title strip at the top, highlighted: **YOUTUBE ISN'T IT**
