@@ -20,9 +20,9 @@ Last updated: 2026-10-08. Latest instructions take priority over earlier ones.
 | Format | 16:9 YouTube explainer in the Vox paper-collage style |
 | Voice | Nathan's ElevenLabs professional voice clone `wPRZrreD6Qn7ej6rlBKJ` (we have admin access in his workspace). Narration section of the script only. |
 | Look | **Target:** reference video https://youtu.be/TiycelzfzC0 at 0:09–0:45: cinematic, 3D, elements lifted off the page. **Approved:** "1006 (2).mp4" (Seedance). **Fallback:** Sep 16 sample. **Rejected:** the busy Oct 6 clip and the first "1006.mp4". Rule: *less clutter, more motion.* |
-| Faces | **Black bar over the eyes of every well-known celebrity** wherever they appear: generated shots, real footage and the thumbnail. Anonymous paper people (crowds, customers, viewers) get no bar. |
-| Characters | **Every character is a paper cut-out:** flat printed-photo or illustrated paper with a visible white cut edge, a slight drop shadow and paper grain, moving like a puppet. No realistic 3D people. The "3D, lifted off the page" look comes from layering and camera depth, not from realistic rendering. Real footage stays real, inside a torn-paper frame. |
-| Real footage | About 30 s per video, spread through it and tied to the narration |
+| Faces | **Black bar over the eyes of every well-known celebrity** in every shot and on the thumbnail. Anonymous paper people (crowds, customers, viewers) get no bar. |
+| Characters | **Every character is a paper cut-out:** flat printed-photo or illustrated paper with a visible white cut edge, a slight drop shadow and paper grain, moving like a puppet. No realistic 3D people. The "3D, lifted off the page" look comes from layering and camera depth, not from realistic rendering. |
+| Real footage | **None (changed Oct 8).** The "30 s of real footage" idea from Sep 16 is dropped. Everything is paper-converted. |
 | Editing | Follow `Editing Rules.pdf` (summarised below) |
 | Thumbnail | System described below |
 | In-video callback | When each income stream is revealed, the thumbnail pops up and that logo un-blurs |

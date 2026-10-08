@@ -6,11 +6,10 @@ The timings are planning estimates. Lock them to the real ElevenLabs voice-over 
 **Shot type** (to keep credit cost down):
 - **GEN**: an AI video clip (Seedance or another image-to-video model) for cinematic or 3D shots.
 - **MG**: layered paper motion graphics built from still cut-outs (stamps, ledgers, counters, arrows, tears) with no video-generation credits.
-- **RF**: real footage, framed inside a torn-paper border.
 - **SRC**: a source snippet (article screenshot, figure highlighted, number cut out).
 
 **Characters:** everyone on screen is a paper cut-out (white cut edge, drop shadow, paper grain, puppet-style motion), including MrBeast, Ronaldo, crowds and customers.
-**Black bar:** goes over the eyes of every well-known celebrity (MrBeast, Ronaldo, and any famous face that turns up) in generated shots, real footage and the thumbnail. Anonymous paper people get none.
+**Black bar:** goes over the eyes of every well-known celebrity (MrBeast, Ronaldo, and any famous face that turns up) in every shot and on the thumbnail. Anonymous paper people get none.
 
 ## Thumbnail
 - Title strip at the top, highlighted: **YOUTUBE ISN'T IT**
@@ -44,7 +43,7 @@ The timings are planning estimates. Lock them to the real ElevenLabs voice-over 
 | 12 | 1:03–1:10 | "advertising… sponsors… companies willing to pay" | Ad blocks and sponsor envelopes slide in with inflow arrows | MG | Revenue in |
 | 13 | 1:10–1:16 | "make a video… advertisers pay… make money" | Four-step flowchart drawn arrow by arrow | MG | |
 | 14 | 1:16–1:20 | "But there's a problem" | **Paper tear** splits the flowchart | MG | Tear |
-| 15 | 1:20–1:28 | "sets, crews, prizes, travel" | **Real footage** of a MrBeast set or behind the scenes. Price tags staple onto each item. | **RF ~5s** | Price tags |
+| 15 | 1:20–1:28 | "sets, crews, prizes, travel" | Paper cut-out film set: crew, lights, a giant prize and a travel jet, with price tags stapling onto each item | GEN | Price tags |
 | 16 | 1:28–1:35 | "goes right back out" | Bucket fills with money, then drains through a hole | GEN | Expense out |
 
 ### 1:35–2:35 · Revenue Is Not Profit
@@ -56,7 +55,7 @@ The timings are planning estimates. Lock them to the real ElevenLabs voice-over 
 | 20 | 1:58–2:03 | "lost $10 million" | Red "-$10M" stamp lands | MG | |
 | 21 | 2:03–2:15 | "quarter-billion… lost almost $80 million" | Clipping, figure highlighted, then ledger: +$250M / -$80M | SRC | Dotted border (REPORTED) |
 | 22 | 2:15–2:20 | "enormous audience… still loses money" | Crowd grows while the money pile shrinks | GEN | |
-| 23 | 2:20–2:27 | "Amazon committed $100M… over budget" | **Beast Games footage**, then a budget meter bursts past the $100M line | **RF ~4s** + MG | |
+| 23 | 2:20–2:27 | "Amazon committed $100M… over budget" | Paper Beast Games arena with contestant cut-outs, then a budget meter bursts past the $100M line | GEN + MG | |
 | 24 | 2:27–2:31 | "why spend that much money?" | Paper question mark drops and bounces | MG | |
 | 25 | 2:31–2:35 | "It produces attention… outside YouTube" | Phones, cameras and eyes point at MrBeast; arrows break out past the YouTube frame | GEN | Attention |
 
@@ -73,7 +72,7 @@ The timings are planning estimates. Lock them to the real ElevenLabs voice-over 
 | 33 | 3:22–3:27 | "more than $20 million in profit" | Money left behind in the store's till | MG | PROFIT stamp, dotted border |
 | 34 | 3:27–3:32 | "not MrBeast's personal paycheck" | Paycheck slides in and gets a "NOT" stamp; the figure stays inside the building | MG | |
 | 35 | 3:32–3:36 | "media lost… chocolate made" | Two ledgers side by side, red and green | MG | |
-| 36 | 3:36–3:40 | "turned attention into paying customers" | **Feastables on a store shelf**, and an arrow from the crowd into the shelf | **RF ~4s** | Retail-shelf composition |
+| 36 | 3:36–3:40 | "turned attention into paying customers" | Paper store shelf stocked with Feastables bars; cut-out customers reach in and an arrow runs from the crowd to the shelf | GEN | Retail-shelf composition |
 
 ### 3:40–4:40 · Midpoint Surprise: Beyond Chocolate
 | # | Time | VO cue | Visual and motion | Type | Notes |
@@ -85,7 +84,7 @@ The timings are planning estimates. Lock them to the real ElevenLabs voice-over 
 | 41 | 4:04–4:14 | "acquired Step… seven million users" | Clipping, then **thumbnail: Step un-blurs**, then a paper phone with 7M people funnelling in | SRC + MG | **Callback 4** · REPORTED |
 | 42 | 4:14–4:22 | "YouTube. Chocolate. Entertainment. Software. Financial services." | Five stamps, one per word, each popping up a paper building | MG | Hits on each word |
 | 43 | 4:22–4:30 | "sounds like a company across industries" | Pull back: the buildings form a skyline | GEN | Pull-back |
-| 44 | 4:30–4:40 | "the bigger story is Beast Industries" | Beast Industries HQ; YouTube is one lit window. **News or interview clip.** | **RF ~5s** + GEN | Corporate ecosystem |
+| 44 | 4:30–4:40 | "the bigger story is Beast Industries" | Beast Industries HQ; YouTube is one lit window, and paper headlines circle the building | GEN | Corporate ecosystem |
 
 ### 4:40–5:55 · The Money Map: Getting Paid vs Owning
 | # | Time | VO cue | Visual and motion | Type | Notes |
@@ -105,7 +104,7 @@ The timings are planning estimates. Lock them to the real ElevenLabs voice-over 
 | 53 | 5:55–6:02 | "MrBeast makes a video" | Big blank map; a paper camera and video tile placed in the centre | MG | |
 | 54 | 6:02–6:08 | "generates what? Attention." | Eyeballs and phones spread out around the tile | GEN | Attention |
 | 55 | 6:08–6:15 | "advertising and sponsorship" | Inflow arrows | MG | Revenue |
-| 56 | 6:15–6:25 | "distribution… doesn't have to introduce himself" | Roads draw outward from the crowd. **Fans at an event or launch.** | **RF ~6s** + MG | |
+| 56 | 6:15–6:25 | "distribution… doesn't have to introduce himself" | Roads draw outward from the crowd; paper fans swarm a product-launch stage | GEN + MG | |
 | 57 | 6:25–6:35 | "Feastables customers… entertainment" | The crowd splits into streams to the store and the theatre | GEN | |
 | 58 | 6:35–6:42 | "other businesses benefit" | Viewstats and Step buildings link up with dotted lines | MG | |
 | 59 | 6:42–6:52 | "reinvested… company… products… bigger content" | Money flows back to the centre, with three stamps on the three words | MG | |
@@ -121,7 +120,7 @@ The timings are planning estimates. Lock them to the real ElevenLabs voice-over 
 | 65 | 7:30–7:38 | "Feastables, entertainment, software…" | **Final thumbnail callback: every logo now clear** | MG | Payoff |
 | 66 | 7:38–7:46 | "risk… products fail, audiences change, growth slows" | Three warning stamps; a paper line graph dips | MG | |
 | 67 | 7:46–7:55 | "used YouTube to build an audience… not depend on ads" | A bridge from the YouTube island to the business skyline | GEN | |
-| 68 | 7:55–8:05 | "ability to get millions to pay attention" | **Live crowd footage**, which then dissolves into infinite paper eyeballs | **RF ~5s** + GEN | |
+| 68 | 7:55–8:05 | "ability to get millions to pay attention" | A paper stadium crowd facing MrBeast, pulling back into endless paper eyeballs | GEN | |
 
 ### 8:05–8:25 · Next Mystery: Cristiano Ronaldo
 | # | Time | VO cue | Visual and motion | Type | Notes |
@@ -132,7 +131,7 @@ The timings are planning estimates. Lock them to the real ElevenLabs voice-over 
 
 ## Totals
 - **71 shots** averaging about 7 s. The composition changes every 8–15 s, so some shots are beats inside one composition.
-- **Real footage:** 6 slots, about 29 s (shots 15, 23, 36, 44, 56, 68).
+- **Real footage:** none. Shots 15, 23, 36, 44, 56 and 68 were real-footage slots and are now paper scenes.
 - **Source snippets:** 6 (Forbes, media loss, Amazon/Beast Games, BI $215M, Step, $5B valuation). **Use real article screenshots, not AI-made fake mastheads.**
 - **Thumbnail callbacks:** setup (05), Feastables (26), Viewstats (38), Beast Games (39), Step (41), full reveal (65).
-- **Shot types:** about 22 GEN, about 43 MG, 6 RF. Generating only the cinematic shots and building the rest as motion graphics cuts video-generation credits by roughly two-thirds.
+- **Shot types:** about 26 GEN and about 45 MG (a few shots use both). Generating only the cinematic shots and building the rest as motion graphics cuts video-generation credits by roughly two-thirds.
